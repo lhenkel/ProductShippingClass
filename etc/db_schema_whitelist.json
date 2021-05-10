@@ -1,0 +1,12 @@
+{
+    "henkelsoft_product_shipping_class": {
+        "column": {
+            "product_id": true,
+            "shipping_class": true
+        },
+        "constraint": {
+            "PRIMARY": true,
+            "HENKELSOFT_PRODUCT_SHIPPING_CLASS_PRODUCT_ID": true
+        }
+    }
+}
